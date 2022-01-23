@@ -45,6 +45,6 @@ static void Main()
  - and further develop your program to perform more exciting and interesting translation services. 
 
 ## Acknowledgmensts 
- -Package Icon was made by Sumit Saengthong on Iconscout. 
+ - Package Icon was made by Sumit Saengthong on Iconscout. 
 
 
