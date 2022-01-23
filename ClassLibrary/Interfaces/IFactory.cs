@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary.Interfaces
+namespace ClassLibraryForTranslationService.Interfaces
 {
    public interface IFactory
     {

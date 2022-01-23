@@ -1,12 +1,12 @@
-﻿using ClassLibrary.Dictionary;
-using ClassLibrary.Interfaces;
+﻿using ClassLibraryForTranslationService.Dictionary;
+using ClassLibraryForTranslationService.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary.AbstractFactory
+namespace ClassLibraryForTranslationService.AbstractFactory
 {
    public class Factory
     {

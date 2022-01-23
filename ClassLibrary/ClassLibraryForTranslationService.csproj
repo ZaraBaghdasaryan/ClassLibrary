@@ -9,6 +9,7 @@
     <Description>MorseCodeTranslationService </Description>
     <PackageIcon>translate-language.png</PackageIcon>
     <PackageReadmeFile>ReadMe.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/ZaraBaghdasaryan/ClassLibrary.git</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

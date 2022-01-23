@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary.AbstractFactory
+namespace ClassLibraryForTranslationService.AbstractFactory
 {
    public class AbstractFactoryMain
     {
@@ -19,3 +19,4 @@ namespace ClassLibrary.AbstractFactory
     }
 
 }
+ 

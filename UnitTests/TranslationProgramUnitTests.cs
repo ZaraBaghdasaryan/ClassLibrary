@@ -1,4 +1,4 @@
-using ClassLibrary;
+using ClassLibraryForTranslationService;
 using System.Collections.Generic;
 using Xunit;
 

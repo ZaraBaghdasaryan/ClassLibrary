@@ -1,11 +1,11 @@
-﻿using ClassLibrary.Interfaces;
+﻿using ClassLibraryForTranslationService.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary.Dictionary
+namespace ClassLibraryForTranslationService.Dictionary
 {
     public class MorseDictionaryFactory : IFactory
     {

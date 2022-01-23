@@ -1,4 +1,4 @@
-﻿using ClassLibrary.AbstractFactory;
+﻿using ClassLibraryForTranslationService.AbstractFactory;
 using System;
 using System.Collections.Generic;
 using System.Linq;
