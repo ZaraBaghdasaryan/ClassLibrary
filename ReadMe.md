@@ -5,7 +5,7 @@
 
 ## Usage
  - Create a Console Application 
- - Install the MorseCodeTranslationService Nuget package from Visual Studio. 
+ - Install the ClassLibraryForTranslationService Nuget package from Visual Studio. 
  - Add a using statement/reference to the package
  - Add the below-mentioned code in the Main method of your program
 
