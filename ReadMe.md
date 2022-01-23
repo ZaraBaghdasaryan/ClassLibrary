@@ -10,10 +10,10 @@
  - Add the below-mentioned code in the Main method of your program
 
 
-static void Main() 
-        {
+
+       static void Main() 
+         {
             var program = new TranslationProgram(); 
-            
             while (true)
             {
 
