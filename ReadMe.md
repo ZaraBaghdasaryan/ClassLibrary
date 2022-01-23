@@ -41,8 +41,7 @@
             }
         }
 ## Future recommendations
- - If you would like, you can use the Factory pattern to add additional dictionaries 
- - and further develop your program to perform more exciting and interesting translation services. 
+ - If you would like, you can use the Factory pattern to add additional dictionaries and further develop your program to perform more exciting and interesting translations. services. 
 
 ## Acknowledgmensts 
  - Package Icon was made by Sumit Saengthong on Iconscout. 
